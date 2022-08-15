@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "GoogleWebRTC"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "WebRTC iOS SDK"
 
   spec.homepage     = "https://webrtc.org/"
@@ -53,7 +53,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.platform     = :ios
-  spec.platform     = :ios, "10.0"
+  spec.platform     = :ios, "12.0"
 
   #  When using multiple platforms
   # spec.ios.deployment_target = "5.0"
