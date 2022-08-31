@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "GoogleWebRTC"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.5"
   spec.summary      = "WebRTC iOS SDK"
 
   spec.homepage     = "https://webrtc.org/"
